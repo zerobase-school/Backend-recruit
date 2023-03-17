@@ -44,7 +44,8 @@
 12. 웹 서버 소프트웨어(Apache, Nginx)의 서버 간 라우팅 기능은 OSI 7계층 중 어디서 작동하는지 설명해보세요.
 
 ◇ 공부내용 정리
-|Title|Link|
+|Title|Content|
 |:---:|:---:|
-|네트워크|https://codesche.tistory.com/53|기술면접 대비|
+|네트워크|https://codesche.tistory.com/53|
 |제로베이스 스터디 - CS 면접|https://mixed-leotard-ccd.notion.site/CS-9dc49d13c21e4665b49a2e1558268e7e|
+|네트워크 파트 정리|hwp 파일|
