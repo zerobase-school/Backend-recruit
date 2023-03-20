@@ -47,5 +47,6 @@
 |Title|Content|
 |:---:|:---:|
 |네트워크|https://codesche.tistory.com/53|
-|제로베이스 스터디 - CS 면접|https://mixed-leotard-ccd.notion.site/CS-9dc49d13c21e4665b49a2e1558268e7e|
+|제로베이스 스터디-CS 면접|https://mixed-leotard-ccd.notion.site/CS-9dc49d13c21e4665b49a2e1558268e7e|
 |네트워크 파트 정리|네트워크 파트 정리.hwp 확인|
+|Computer Science(네트워크 CS지식 정리)|https://s-y-130.tistory.com/category/Computer%20Science/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC|
