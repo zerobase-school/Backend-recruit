@@ -1,0 +1,66 @@
+## 4팀 4주차 스터디 일지
+- 진행일시 : 2023년 04월 04일 20시  
+- 작성자 : 이정아
+- 참석자 : 이정아, 류희주, 최영준, 이소아, 곽재하
+
+## 데이터베이스 CS 모의 면접 질문
+
+### 정아
+1. redis와 memcached의 차이
+2. 조인이란? left join 설명
+3. 트랜잭션 격리 수준에 대해 설명해주세요.
+4. CAP 설명해주세요
+5. 카디널리티가 무엇인지?
+6. AOF가 무엇인지?
+
+### 재하
+1. 트랜잭션 격리 수준
+2. RDBMS vs NOSQL에 대해서 설명해주세요.
+3. Elastic Search의 인덱스구조와 RDBMS의 인덱스 구조의 차이에 대해 설명해주세요.
+4. Elastic Search의 키워드 검색과 RDBMS의 LIKE 검색의 차이에 대해 설명해주세요.
+5. Redis와 Memcached의 차이에 대해서 설명해주세요.
+6. CAP 이론과, Eventual Consistency에 대해서 설명해주세요.
+
+### 소아
+1. 데이터베이스에서 인덱스를 사용하는 이유 및 장단점에 대해 설명해주세요.
+2. 인덱스를 사용하면 좋은 경우는 어떤 경우인가요?
+3. 트랜잭션에 대해서 설명해주세요.
+4. RDBMS vs NOSQL에 대해서 설명해주세요.
+5. Elastic Search에 대해서 설명해주세요.
+6. Elastic Search의 키워드 검색과 RDBMS의 LIKE 검색의 차이에 대해 설명해주세요.
+7. Redis의 정의와 장단점에 대해 설명해주세요.
+8. 정규화에 대해 설명해주세요.
+
+### 영준 
+1. 트랜잭션 격리 수준에 대해서 설명해주세요.
+2. RDBMS vs NOSQL에 대해서 설명해주세요.
+3. Elastic Search의 인덱스구조와 RDBMS의 인덱스 구조의 차이에 대해 설명해주세요.
+4. Elastic Search의 키워드 검색과 RDBMS의 LIKE 검색의 차이에 대해 설명해주세요.
+5. Redis와 Memcached의 차이에 대해서 설명해주세요.
+
+### 희주
+1. 데이터베이스에서 인덱스를 사용하는 이유 및 장단점에 대해 설명해주세요.
+2. 트랜잭션에 대해서 설명해주세요.
+3. Elastic Search에 대해서 간단히 설명해주세요.
+4. Elastic Search의 인덱스구조와 RDBMS의 인덱스 구조의 차이에 대해 설명해주세요.
+5. 정규화에 대해서 설명해주세요.
+
+### 팀원 CS 모의면접 공부 내용 정리
+🔗 https://github.com/BE-TECH-ALL/CS-STUDY/tree/main/3%EC%A3%BC%EC%B0%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4
+
+## 알고리즘 3문제 공부
+
+### 알고리즘 3문제
+1. 이친수 (실버3) - https://www.acmicpc.net/problem/2193
+2. 연결 요소의 개수 (실버2) - https://www.acmicpc.net/problem/11724
+3. 집합의 표현 (골드5) - https://www.acmicpc.net/problem/1717
+
+### 팀원 알고리즘 풀이 모음
+🔗 https://github.com/BE-TECH-ALL/CODING-TEST-STUDY/pulls
+
+### 취업관련 일정 (멘토링, 면접 or 코테 일정, 지난 주 지원 현황)
+
+#### 소아 - 4월 8일 토요일 코딩테스트
+#### 영준 - 2번 지원 완료(메가스터디, 스타트업)
+#### 정아 - 1번 지원 완료(오늘의집)
+#### 희주, 재하 - 서류 작성 후 지원 예정
