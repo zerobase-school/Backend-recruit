@@ -36,6 +36,15 @@
 - [[프로그래머스_LV3] 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
 - [[프로그래머스_LV2] 타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 </details>
+<details>
+    <summary>4주차</summary>
+
+- [[프로그래머스_LV3] 단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
+- [[프로그래머스_LV3] 등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)
+- [[프로그래머스_LV1] 바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
+- [[프로그래머스_LV3] 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
+- [[프로그래머스_LV2] 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
+</details>
 
 ## 이력서 피드백
 4월 17일 이력서 피드백 진행 (각자 이력서/포폴에 대한 피드백)
