@@ -28,6 +28,14 @@
 - [[프로그래머스_LV1] 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 - [[프로그래머스_LV1] 모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 </details>
+<details>
+    <summary>3주차</summary>
+
+- [[프로그래머스_LV3] 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
+- [[프로그래머스_LV3] 가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
+- [[프로그래머스_LV3] 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
+- [[프로그래머스_LV2] 타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+</details>
 
 ## 이력서 피드백
 4월 17일 이력서 피드백 진행 (각자 이력서/포폴에 대한 피드백)
