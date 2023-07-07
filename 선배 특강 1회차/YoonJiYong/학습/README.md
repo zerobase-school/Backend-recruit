@@ -215,7 +215,7 @@ Map(I)
 면접에서의 핵심 질문이 이 부분에서 많이 나옵니다. 때문에, 이 경험에서 얼마나 집요하게 고민하고 합리적인 결정을 했는지 잘 기록해 두어야 합니다.  
 기록하지 않으면 잊어버리게 됩니다. 반드시 기록하여 입사지원서 및 포트폴리오에 작성합시다!
 
-(링크: [내가 느낀 면접관들이 궁금해 한 것](https://github.com/zerobase-school/Backend-recruit/tree/main/%EC%84%A0%EB%B0%B0%20%ED%8A%B9%EA%B0%95%201%ED%9A%8C%EC%B0%A8/YoonJiYong#3-%EB%82%B4%EA%B0%80-%EB%8A%90%EB%82%80-%EB%A9%B4%EC%A0%91%EA%B4%80%EB%93%A4%EC%9D%B4-%EA%B6%81%EA%B8%88%ED%95%B4-%ED%95%9C-%EA%B2%83))
+(링크: [내가 느낀 면접관들이 궁금해 한 것: 취업편 2-3](https://github.com/zerobase-school/Backend-recruit/tree/main/%EC%84%A0%EB%B0%B0%20%ED%8A%B9%EA%B0%95%201%ED%9A%8C%EC%B0%A8/YoonJiYong/%EC%B7%A8%EC%97%85#3-%EB%82%B4%EA%B0%80-%EB%8A%90%EB%82%80-%EB%A9%B4%EC%A0%91%EA%B4%80%EB%93%A4%EC%9D%B4-%EA%B6%81%EA%B8%88%ED%95%B4-%ED%95%9C-%EA%B2%83))
 
 > **정리 팁**
 > - 핵심은 `얼마나 어려운 문제를 해결했느냐` 보다 `어떻게 문제를 정의하고 어떤 생각의 흐름으로 문제에 접근하고 해결했는가` 가 입니다.
