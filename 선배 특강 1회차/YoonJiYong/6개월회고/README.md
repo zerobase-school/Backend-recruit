@@ -153,6 +153,36 @@
 - 백엔드 개발자가 되려면 필요한 스펙은 어떻게 될까요?
 - 어느정도 실력이 되어야 취업이 가능한지 모르겠어요...
 
+***
+
+## 4. 유튜브 추천
+궁금해하시는 분들이 많네요...?! ㅎㅎ 게임, 예능, 드라마 대신 취업할때까지는 공부합시다!! <br>
+(추천 유튜버들과는 전혀 친분이 있고 싶습니다...)
+
+- [널널한 개발자 TV](https://www.youtube.com/@nullnull_not_eq_null/about) : CS 및 취업 상담
+- [코딩애플](https://www.youtube.com/@codingapple) : 개발 관련 지식 및 이슈
+- [오제이 튜브](https://www.youtube.com/@OJTube) : 학습방법 및 개발자 마인드
+- [얄팍한 코딩사전](https://www.youtube.com/@yalco-coding) : 코딩 지식
+- [우아한테크](https://www.youtube.com/@woowatech) : 개념정리 및 학습자극(나랑 같은 신입이.. 이정도?)
+- [GIS DEVELOPER](https://www.youtube.com/@gisdeveloper) : Java 코드 기반 디자인 패턴
+- [메타코딩](https://www.youtube.com/@metacoding) : 코딩 지식
+- [비개발 쑤난](https://www.youtube.com/@ssoonan213) : 개발자에게 필요한 팁
+- [쉬운코드](https://www.youtube.com/@ez.) : 코딩 지식 및 면접 팁
+- [최범균](https://www.youtube.com/@madvirus) : Java 베이스 개발 지식
+- [드림코딩](https://www.youtube.com/@dream-coding) : 업계 이슈 및 개발자 마인드
+- [코딩몬스터TV](https://www.youtube.com/@codingmonster) : 직무, 취업 관련
+- [BaaarkingDog](https://www.youtube.com/@BaaaaaaaaaaaaaaaaaaaaarkingDog) : 알고리즘
+- [개발자 장고](https://www.youtube.com/@developer_jango/videos) : 알고리즘 및 면접 준비
+- [엔지니어 대한민국](https://www.youtube.com/@eleanorlim) : 알고리즘 및 자료구조
+- [백기선](https://www.youtube.com/@keesun.b) : Java, Spring, 모르시는 분은 많이 없죵
+- [포프TV](https://www.youtube.com/@PopeTV) : 개발자 마인드
+- [개발자 인큐티비](https://www.youtube.com/@incutv) : 면접준비
+- [생활코딩](https://www.youtube.com/@coohde) : 개발 전반에 대한 넓고 얕은 지식(으로 시작하기 좋은)
+- [개발바닥](https://www.youtube.com/@devbadak) : 학습법 및 개발자 마인드
+- [노마드코더](https://www.youtube.com/@nomadcoders) : 웹개발 기본지식 및 트렌드
+- [컴공선배](https://www.youtube.com/@comgongbro) : 개발자 취업
+
+
 <br><br><br>
 
 <sup>[맨 위로](#안녕하세요-백엔드-개발자-윤지용입니다)</sup>
