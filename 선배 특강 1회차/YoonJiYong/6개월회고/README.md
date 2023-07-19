@@ -77,6 +77,13 @@
 
 <br>
 
+***
+
+<img src="https://github.com/jiyongYoon/jiyongYoon/assets/98104603/d7d56c44-9c56-4718-9d9d-fc74fe12814d" width="40%" hieght="40%"> <br>
+의미 없는 삽질은 (거의) 없습니다.
+
+***
+
 ### 1) 학습편
 
 - 세줄 요약
