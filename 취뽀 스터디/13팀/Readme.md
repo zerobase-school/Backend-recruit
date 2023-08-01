@@ -3,7 +3,7 @@
     : 고지민, 강민지, 박연준, 윤장원, 왕석현(팀장)
     팀 목표
     : 
-## [13조 노션 바로가기](https://www.notion.so/ready-for-dev/13-_-a9b2a44f64cf40b1a964749242561b8b)
+## [13조 노션 바로가기](https://ready-for-dev.notion.site/13-_-b88d8ef5ce444e478954c17fec137020?pvs=4)
 
 ---
 ## 13 조 스터디 규칙
@@ -11,28 +11,28 @@
 2. 소전제(팀장 희망) : ~~취업하고도 계속 스터디~~
 
 ## 팀 스터디 내용.
-### 1. 알고리즘 학습은 매일매일(기록)[기록 보러 가기](https://www.notion.so/ready-for-dev/60730d6c63f740a688e152c442a36c44?v=84ece51be431498da85ea422440e8bcb)
+### 1. 알고리즘 학습은 매일매일(기록)[기록 보러 가기](https://www.notion.so/ready-for-dev/5698acf6007f4d298a8d7b9dc8c81c8d?v=1eb079e5617e4fdd832629953102b3f0)
 (가이드라인)
 - **문제 링크 제공**
 - **깃허브 링크 제공**(리뷰 편의성을 위해) 
 
-### 2. 인성면접에서 우리는 어떤 말을 해야할까?[정리 보러 가기](https://www.notion.so/ready-for-dev/a042d52cdc8a4418a7aa40484e967d57)
+### 2. 인성면접에서 우리는 어떤 말을 해야할까?[정리 보러 가기](https://www.notion.so/ready-for-dev/823e2f0fdbac4721a68716964d41a916)
 (가이드라인)
 - **화/목 21:00~(인원 수에 따라 상이 최소 인당 15분)**
 - **discord 활용**
 - **CAM을 켜고 진행**
 
-### 3. 라이브 코딩으로 나의 코드를 더욱 단단하게[정리 보러 가기](https://www.notion.so/ready-for-dev/3c51c65f1b654798a7f116fb1f316cf5)
+### 3. 라이브 코딩으로 나의 코드를 더욱 단단하게[정리 보러 가기](https://www.notion.so/ready-for-dev/9c30887639ae4aa08498bf20da8674aa)
 (가이드라인)
 - **금 21:00~(인원 수에 따라 상이 최소 인당 15분)**
 - **discord 활용**
 - **화면 공유를 통해 진행**
-### 4. IT 기술 블로그로 지식 꽃피우기[기록 보러 가기](https://www.notion.so/ready-for-dev/176199eadf5d49aa8393850b224d5071?v=870718fad500472c8b7e161cf0bc052c)
+### 4. IT 기술 블로그로 지식 꽃피우기[기록 보러 가기](https://www.notion.so/ready-for-dev/7e616fdd39f949beb0be0fb0282f388b?v=bab291daacae42d2972b27fdc1c47ee3)
 (**많관부**)
 - **좋아요 또는 댓글을 통한 피드백으로 성장할 수 있습니다!**
 - **개인이 레퍼런스를 보며 학습**
 
-### (자율) 주간 계회[기억 하러 가기](https://www.notion.so/ready-for-dev/Kubernetis-7525418d43f54f3986713dcc94903ddd)
+### (자율) 주간 계회[기억 하러 가기](https://www.notion.so/ready-for-dev/Kubernetes-2e9d9e91efca41059b4af3559e861b86)
 (가이드라인)
 - 나의 이번 한 주는 어땠는지 **회고**
 - 다음 한 주를 어떻게 보낼지 **설계**
